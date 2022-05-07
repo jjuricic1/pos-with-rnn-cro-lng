@@ -5,7 +5,7 @@
 > **POS označavanje** ( označavanje dijelova govora) postupak je za označavanje riječi u tekstualnom formatu za određeni dio govora na temelju njegove definicije i konteksta. Odgovorno je za čitanje teksta na jeziku i za dodjeljivanje određenog znaka (dijelovi govora) svakoj riječi. Naziva se i gramatičkim označavanjem. (izvor: https://hr.csstricks.net/8226566-pos-tagging-with-nltk-and-chunking-in-nlp-examples)
 
 
-![picture](https://drive.google.com/uc?id=19zcwHN45Iwc7tLHiiOHkALCpN5sZ4okD)
+![picture](images/vrste-rijeci.PNG)
 
 
 ### **hr500k** - *korpus sa POS oznakama hrvatskog jezika*
@@ -23,7 +23,7 @@ Korpus je dostupan u ***CoNLL*** formatu datoteke.
 
 Primjer izgleda podataka za jednu rečenicu iz korpusa: 
 
-![picture](https://drive.google.com/uc?id=1XeKiJqPpZtlCc0lS7tewMRjcE3iS7iOt)
+![picture](images/data-view-first.PNG)
 
 ## Neuronske mreže
 <ul>
